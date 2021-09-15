@@ -1,0 +1,15 @@
+1) What is a gitignore file and what should it include for a Java project?
+
+.gitignore file contains ignore rules. It is used to tell the git to ignore the specified files while pushing the code to git.
+
+2) What does fast-forward in Git mean?
+
+Git does a fast forward when you merge a branch that is ahead of your checked out branch.
+
+3) Why should you have different branches?
+
+It allows developers to branch out from the main code and differentiate their work from other developers.
+
+4) In a project how many remote Git repositories do you usually have?
+
+we can only have one remote git repository.
